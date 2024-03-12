@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tugas1_71210778</string>
+    <string name="prov">PROVINSI JAWA TENGAH</string>
+    <string name="kab">KABUPATEN KLATEN</string>
+    <string name="nik">NIK : 12345678987654321</string>
+    <string name="nama">Nama : Sebut Saja Mawar</string>
+    <string name="ttl">Tempat/Tgl Lahir : KLATEN, 30-02-2009</string>
+    <string name="JenisKelamin">Jenis Kelamin : PEREMPUAN</string>
+    <string name="golDarah">Gol. Darah : A+</string>
+    <string name="alamat">Alamat : PALSU</string>
+    <string name="rt.rw">RT/RW : 069/001</string>
+    <string name="desa">Kel/Desa : KU YANG KU CINTA</string>
+    <string name="kec">Kecamatan : PODO KANCANE</string>
+    <string name="status">Status Perkawinan : SECOND CHOICE</string>
+    <string name="pekerjaan">Pekerjaan : PEMANCING GALATAMA</string>
+    <string name="kewarganegaraan">Kewarganegaraan : WNI</string>
+    <string name="berlaku">Berlaku Hingga : LELAH SENDIRI</string>
+    <string name="agama">Agama : TERGANTUNG HARI</string>
+    <string name="kabupaten">KABUPATEN KLATEN</string>
+    <string name="tglTTD">15-09-2019</string>
+</resources>
